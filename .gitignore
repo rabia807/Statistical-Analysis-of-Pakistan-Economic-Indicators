@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+.RDataTmp
+.Renviron
+.Rprofile
+.DS_Store
